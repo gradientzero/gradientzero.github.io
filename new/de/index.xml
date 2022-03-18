@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gradient Zero on Gradient Zero - Maschinelles Lernen für Unternehmen</title>
+    <link>https://gradient0.com/new/de/</link>
+    <description>Recent content in Gradient Zero on Gradient Zero - Maschinelles Lernen für Unternehmen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Sat, 16 May 2020 08:10:04 +0200</lastBuildDate><atom:link href="https://gradient0.com/new/de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gradient Zero</title>
+      <link>https://gradient0.com/new/de/products/</link>
+      <pubDate>Tue, 19 May 2020 08:10:04 +0200</pubDate>
+      
+      <guid>https://gradient0.com/new/de/products/</guid>
+      <description>   1   Content 2 Lorem ipsum  Lorem ipsum  Lorem ipsum     </description>
+    </item>
+    
+  </channel>
+</rss>
